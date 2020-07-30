@@ -1,0 +1,6 @@
+{
+  "html-css-class-completion.enableEmmetSupport": true,
+  "prettier.htmlWhitespaceSensitivity": "strict",
+  "prettier.jsxBracketSameLine": true,
+  "prettier.endOfLine": "auto"
+}
